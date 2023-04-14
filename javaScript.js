@@ -1,4 +1,5 @@
-const apiKey = "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";
+//Coloque o sua chave key na apikei
+const apiKey = "#";
 
 function sendMessage(){
     var message = document.getElementById('message-input')
